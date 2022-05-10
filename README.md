@@ -2,4 +2,5 @@
 Correlation Matrix  </br>
 Investment Risk Management </br> 
 Ratio Analysis </br>
-Stock Analysis with EXCEL-VBA
+Stock Analysis with EXCEL-VBA </br>
+Seeking Investment ALPHA
